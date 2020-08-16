@@ -8,7 +8,7 @@
 ## Aulas
 - Rota para criar aulas 
 - Rota paraListar aulas
-    - FIltrar por matéria, dia da semana e horáio
+    - Filtrar por matéria, dia da semana e horáio
 
 
 
